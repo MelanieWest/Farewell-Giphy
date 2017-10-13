@@ -8,7 +8,7 @@ $(document).ready(function(){
      imgFran.attr("src",imgUrlMel);
      nameFran.html('Francisco Carrera');
      
-     $('Francisco_Carrera').append(imgFran);
-     $('Francisco_Carrera').append(nameFran);
+     $('#Francisco_Carrera').append(imgFran);
+     $('#Francisco_Carrera').append(nameFran);
      
 });
