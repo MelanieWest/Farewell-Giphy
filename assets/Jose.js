@@ -6,7 +6,7 @@ $(document).ready(function(){
             imgJose.attr("src",imgUrlJose);
             nameJose.html('Jose Guzman');
             
-            $('#Jose_Guzman').append(imgjose);
-            $('#Jose_Guzman').append(namejose);
+            $('#Jose_Guzman').append(imgJose);
+            $('#Jose_Guzman').append(nameJose);
             
 });

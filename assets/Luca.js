@@ -7,6 +7,6 @@ $(document).ready(function(){
             nameLou.html('Luca Canizzo');
             
             $('#Luca_Canizzo').append(imgLuca);
-            $('#Luca_Canizzo').append(nameLuca);
+            $('#Luca_Canizzo').append(nameLou);
             
 });
