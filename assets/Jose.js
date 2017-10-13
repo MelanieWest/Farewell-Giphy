@@ -1,12 +1,12 @@
 $(document).ready(function(){
            
-            var imgMelanie = $('<img>');
-            var nameMelanie = $('<p>');
-            var imgUrlMel = "https://tenor.com/view/method-man-soul-plane-sliding-in-sliding-in-the-dms-gif-5595353"           
-            imgMelanie.attr("src",imgUrlMel);
-            nameMelanie.html('Melanie West');
+            var imgJose = $('<img>');
+            var nameJose = $('<p>');
+            var imgUrlJose = "https://tenor.com/view/method-man-soul-plane-sliding-in-sliding-in-the-dms-gif-5595353"           
+            imgJose.attr("src",imgUrlJose);
+            nameJose.html('Jose Guzman');
             
-            $('#Melanie_West').append(imgMelanie);
-            $('#Melanie_West').append(nameMelanie);
+            $('#Jose_Guzman').append(imgjose);
+            $('#Jose_Guzman').append(namejose);
             
 });
