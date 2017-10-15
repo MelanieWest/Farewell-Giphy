@@ -2,7 +2,7 @@ $(document).ready(function(){
     
     var wybo = $('<img>');
      var nameWybo = $('<h3>');
-     var imgUrlWybo = "https://media.giphy.com/media/QhvVvleEIGHEQ/giphy.gif (858kB)"          
+     var imgUrlWybo = "https://media.giphy.com/media/QhvVvleEIGHEQ/giphy.gif"          
      wybo.attr("src",imgUrlWybo);
      nameWybo.html('Andrew Wybo');
     
