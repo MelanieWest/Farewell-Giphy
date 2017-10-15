@@ -7,7 +7,9 @@ $(document).ready(function(){
      imgMaksym.attr("src",imgUrlMaks);
      nameMaksym.html('Maksym Filippov');
      
-     $('#Maksym_Filippov').append(imgMaksym);
-     $('#Maksym_Filippov').append(nameMaksym);
+    //  $('#Maksym_Filippov').append(imgMaksym);
+    //  $('#Maksym_Filippov').append(nameMaksym);
+     $('#open').append(imgMaksym);
+     $('#open').append(nameMaksym);
      
 });
