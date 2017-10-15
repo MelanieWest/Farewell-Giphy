@@ -2,10 +2,8 @@ $(document).ready(function(){
            
             var imgTara = $('<img>');
             var nameTara = $('<p>');
-           // https://media.giphy.com/media/Hl1PqpoxTVGdG/giphy.gif
-            var imgUrlMel = "https://media.giphy.com/media/VelWewgR6CpNK/giphy.gif"           
-            //var imgUrlMel = "https://media.giphy.com/media/g9582DNuQppxC/giphy.gif"
-            imgTara.attr("src",imgUrlMel);
+            var imgUrlTN = "https://media.giphy.com/media/VelWewgR6CpNK/giphy.gif"           
+            imgTara.attr("src",imgUrlTN);
             nameTara.html('Tara Nelson');
             
             $('#Tara_Nelson').append(imgTara);
