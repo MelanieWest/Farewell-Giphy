@@ -9,7 +9,5 @@ $(document).ready(function(){
      
      $('#Maksym_Filippov').append(imgMaksym);
      $('#Maksym_Filippov').append(nameMaksym);
-    //  $('#open').append(imgMaksym);
-    //  $('#open').append(nameMaksym);
      
 });
